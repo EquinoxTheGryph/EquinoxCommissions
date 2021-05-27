@@ -1,4 +1,4 @@
-# TOS
+# TOS (WORK IN PROGRESS!)
 
 ## Payment
 ### At which step do I pay?
