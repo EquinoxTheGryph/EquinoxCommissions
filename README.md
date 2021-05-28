@@ -8,27 +8,51 @@ Prices are in € (`EUR`)
 | Bust      |    00.00 |   00.00 |     00.00 |       00.00 |
 | Fullbody  |    00.00 |   00.00 |     00.00 |       00.00 |
 
+Artistic liberty: xx% off! (Read more about it below)
+
 Extra flourishes:
   - Transperancy: 00.00
   - Paper Look: 00.00
+  - +Wings: 00.00 to 00.00 depending on size/complexity
   - ...
 
 
 # TOS (WORK IN PROGRESS!)
 
+## General service
+### Contact options
+My prefered methods of communication, in descending order of preferance and speed of response:
+  1. Telegram
+  2. Twitter DMs
+  3. Discord
+  4. Email
+
+### Etiquette
+If you decide to commission me, I kindly ask you to keep it to the point.
+Please DON'T:
+  - Smalltalk
+  - Tell me your life story
+  - Ask for personal information
+  - Gennerally make things uncomfortable for me
+  - Keep messaging me (Multiple times in short timespan) about the status of the commission
+  - Insult me
+  - ...
+  
+If you do this, depending on the severity of the situation, I WILL CANCEL the commission and put you on my blocklist, Which will deny you from getting any future commissions from me indefinitely.
+
+
 ## Payment
-### At which step do I pay?
+### At which stage do I pay?
 I ask you to pay BEFORE I start sketching.
 Down payment is possible, but you HAVE to pay in full in the end if you want to see the final image. If you chose for this, I will use heavy watermarking in the mean time.
 
-### How can I pay you?
+### Payment methods
   - If you live in the Netherlands: You can chose payment with 'Tikkie'.
-  - Else: I can only accept PayPal.
+  - Otherwise I can only accept PayPal.
 
-### I am not happy and I want my money back!
-That's sad to hear :(
-
-Depending on which stage I'm at, I can offer a partial refund.
+### Refunds
+If, for whatever reason you're not happy with the commission (Or it got canceled) , I can offer a partial refund.
+Depending on which stage I'm at, this is what I can give back:
   - Rough sketch: 60 to 90%
   - Cleaned sketch: 40 to 60%
   - Color: 10 to 40%
@@ -36,12 +60,15 @@ Depending on which stage I'm at, I can offer a partial refund.
 
 Please, be aware that drawing can be very hard and time consuming, I always try to do my best and to make others happy with their choice.
 HOWEVER, If you chose to do this, I may deny further commissions from you in the future.
+These percentages will be higher if I can not continue myself, for any reason.
 
-## The Commission itself
+
+## Commission topics
 ### Can do
   - Birds and Gryphons
   - Some mawed creatures
   - Basic full body poses
+  - Wings
   - ...
 
 ### Can't do
@@ -51,6 +78,15 @@ Things I very most likely won't do as it's outside my reach for now:
   - Infrastructure
   - Detailed backgrounds
   - Detailed shading
+  - ...
+  
+### Most likely won't do
+Things that I'm not really comfortable doing, so expect me saying no to these things:
+  - NSFW
+  - Gore
+  - Vore
+  - Inflation
+  - Balloon/Pooltoy
   - ...
 
 ### Won't do
@@ -66,18 +102,11 @@ Not doing this under ANY circumstances:
   - Drama
   - ...
 
-Other things that aren't as bad, but still wont do:
-  - NSFW
-  - Gore
-  - Vore
-  - Inflation
-  - Balloon/Pooltoy
-  - ...
-  
+### Artistic liberty
+With this option I can decide for myself which pose or expression I will draw. Please know that you might not get a WIP at all if you chose for this.
 
-## Usage
-Regarding the finished work I give to you.
 
+## Usage (of the finished work)
 ### Can I reupload it to FA, DA, Twitter, etc.?
 As long as you credit me appropriately, YES! You have my permission.
 
