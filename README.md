@@ -1,24 +1,26 @@
-# Prices (WORK IN PROGRESS!)
-Prices are in € (`EUR`)
-`+Feature` Means you add this independently
+# Prices
+## Price Sheet
+| Type      | Base     | + Lined  | + Colored  |
+| ---       | ---      | ---      | ---        |
+| Head      | € 10.00  | € 3.00+  | € 3.00+    |
+| Bust      | € 13.00  | € 3.50+  | € 3.50+    |
+| Fullbody  | € 20.00  | € 5.00+  | € 5.00+    |
 
-| Type      | Base     | +Lined  | +Colored  | +Character  |
-| ---       | ---      | ---     | ---       | ---         |
-| Head      |    00.00 |   00.00 |     00.00 |       00.00 |
-| Bust      |    00.00 |   00.00 |     00.00 |       00.00 |
-| Fullbody  |    00.00 |   00.00 |     00.00 |       00.00 |
+## Notes
+  - Prices are in € (`EUR`)
+  - Prices with a `+` might be higher depending on character complexity! (Up to 1.5 times)
+  - Prices marked as `xx` are yet to be decided!
+  - Artistic liberty: xx% off! (Read more about it below)
 
-Artistic liberty: xx% off! (Read more about it below)
-
-Extra flourishes:
-  - Transperancy: 00.00
-  - Paper Look: 00.00
-  - +Wings: 00.00 to 00.00 depending on size/complexity
+## Extras
+  - Extra character: 70% of chosen type
+  - Transperancy with optional white stroke (For stickers): €1.00
+  - Paper Look: €0.50
+  - Wings (Small toony is free): xx.xx to xx.xx depending on size/complexity
   - ...
 
 
-# TOS (WORK IN PROGRESS!)
-
+# TOS
 ## General service
 ### Contact options
 My prefered methods of communication, in descending order of preferance and speed of response:
@@ -41,14 +43,33 @@ Please DON'T:
 If you do this, depending on the severity of the situation, I WILL CANCEL the commission and put you on my blocklist, Which will deny you from getting any future commissions from me indefinitely.
 
 
-## Payment
+## Prices and Payment
+### Extra notes on prices:
+Prices are noted as minimum.
+
+The price may be higher on complex commissions.
+
+No free art and requests! Only when I specifically state so otherwise.
+
+
+### Note on requesting for changes
+You get 5 changes* free of charge (Before the commission has been marked as finished). I will impose an extra fee for each change* when you exceed the limit.
+
+One "Change" means: When I send a wip, you request I should modify some parts of the art.
+
+
 ### At which stage do I pay?
 I ask you to pay BEFORE I start sketching.
-Down payment is possible, but you HAVE to pay in full in the end if you want to see the final image. If you chose for this, I will use heavy watermarking in the mean time.
+
+Down payment is possible, but you HAVE to pay in full in the end if you want to see the final image. 
+
+If you chose for this, I will use heavy watermarking in the mean time.
+
 
 ### Payment methods
   - If you live in the Netherlands: You can chose payment with 'Tikkie'.
   - Otherwise I can only accept PayPal.
+  
 
 ### Refunds
 If, for whatever reason you're not happy with the commission (Or it got canceled) , I can offer a partial refund.
@@ -59,8 +80,11 @@ Depending on which stage I'm at, this is what I can give back:
   - Finished: Sorry, No refund on finished work!
 
 Please, be aware that drawing can be very hard and time consuming, I always try to do my best and to make others happy with their choice.
+
 HOWEVER, If you chose to do this, I may deny further commissions from you in the future.
+
 These percentages will be higher if I can not continue myself, for any reason.
+
 
 
 ## Commission topics
@@ -71,6 +95,7 @@ These percentages will be higher if I can not continue myself, for any reason.
   - Wings
   - ...
 
+  
 ### Can't do
 Things I very most likely won't do as it's outside my reach for now:
   - Humans
@@ -79,6 +104,7 @@ Things I very most likely won't do as it's outside my reach for now:
   - Detailed backgrounds
   - Detailed shading
   - ...
+  
   
 ### Most likely won't do
 Things that I'm not really comfortable doing, so expect me saying no to these things:
@@ -89,6 +115,7 @@ Things that I'm not really comfortable doing, so expect me saying no to these th
   - Balloon/Pooltoy
   - ...
 
+  
 ### Won't do
 Not doing this under ANY circumstances:
   - Cub/Young
@@ -102,6 +129,7 @@ Not doing this under ANY circumstances:
   - Drama
   - ...
 
+  
 ### Artistic liberty
 With this option I can decide for myself which pose or expression I will draw. Please know that you might not get a WIP at all if you chose for this.
 
@@ -110,13 +138,18 @@ With this option I can decide for myself which pose or expression I will draw. P
 ### Can I reupload it to FA, DA, Twitter, etc.?
 As long as you credit me appropriately, YES! You have my permission.
 
-Please use these tags in your post:
+Feel free to use it as an icon, set as your banner, use in your streams, etc.
+
+#### Please use these tags in your post:
   - Twitter: @EquinoxTheGryph
   - FurAffinity: @Aphelion1
+  
 
 ### Can I resell and/or commercialize it?
 NO. You do can not resell it. Period. 
+
 No, not even for NFTs.
+
 
 ### Do you support NFTs? Cryptocurrencies?
 NO. I do not support NFTs or Cryptocurrencies as they are a menace to the enviroment and are riddled with scams and pyramid schemes.
