@@ -14,7 +14,7 @@
 
 ## Extras
   - Extra character: 70% of chosen type
-  - Transperancy with optional white stroke (For stickers): €1.00
+  - Transperancy with optional white stroke (For stickers): €0.50
   - Paper Look: €0.50
   - Wings (Small toony is free): xx.xx to xx.xx depending on size/complexity
   - ...
