@@ -16,7 +16,6 @@
   - Extra character: 70% of chosen type
   - Transperancy with optional white stroke (For stickers): €0.50
   - Paper Look: €0.50
-  - Wings (Small toony is free): xx.xx to xx.xx depending on size/complexity
   - ...
 
 
@@ -45,17 +44,20 @@ If you do this, depending on the severity of the situation, I WILL CANCEL the co
 
 ## Prices and Payment
 ### Extra notes on prices:
-Prices are noted as minimum.
+  - Prices are noted as minimum.
+  - The price may be higher on complex commissions. (See below for more information)
+  - No free art and requests! Only when I specifically state so otherwise.
 
-The price may be higher on complex commissions.
-
-No free art and requests! Only when I specifically state so otherwise.
-
+### Things that might cost extra
+  - Character having many colors and patterns
+  - Extra limbs
+  - Detailed wings (Namely with individually drawn feathers)
+  - ...
 
 ### Note on requesting for changes
 You get 5 changes* free of charge (Before the commission has been marked as finished). I will impose an extra fee for each change* when you exceed the limit.
 
-One "Change" means: When I send a wip, you request I should modify some parts of the art.
+One "Change" means: A request to change parts of the drawing every time I send a WIP
 
 
 ### At which stage do I pay?
@@ -93,6 +95,7 @@ These percentages will be higher if I can not continue myself, for any reason.
   - Some mawed creatures
   - Basic full body poses
   - Wings
+  - Anthro and Feral (Sometimes)
   - ...
 
   
@@ -107,7 +110,7 @@ Things I very most likely won't do as it's outside my reach for now:
   
   
 ### Most likely won't do
-Things that I'm not really comfortable doing, so expect me saying no to these things:
+Things that I'm not really comfortable doing or just not able to do, so expect me saying no to these things:
   - NSFW
   - Gore
   - Vore
