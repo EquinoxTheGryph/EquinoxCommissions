@@ -1,10 +1,10 @@
 # Prices
 ## Price Sheet
-| Type      | Base     | + Lined  | + Colored  |
-| ---       | ---      | ---      | ---        |
-| Head      | € 10.00  | € 3.00+  | € 3.00+    |
-| Bust      | € 13.00  | € 3.50+  | € 3.50+    |
-| Fullbody  | € 20.00  | € 5.00+  | € 5.00+    |
+| Type      | Base     | + Lined  | + Colored  | + Shaded
+| ---       | ---      | ---      | ---        | ---
+| Head      | € 10.00  | € 3.00+  | € 3.00+    | € 3.00+
+| Bust      | € 13.00  | € 3.50+  | € 3.50+    | € 5.00+
+| Fullbody  | € 20.00  | € 5.00+  | € 5.00+    | € 7.00+
 
 ## Notes
   - Prices are in € (`EUR`)
