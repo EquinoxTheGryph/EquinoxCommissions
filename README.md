@@ -142,6 +142,7 @@ With this option I can decide for myself which pose or expression I will draw. P
 As long as you credit me appropriately, YES! You have my permission.
 
 Feel free to use it as an icon, set as your banner, use in your streams, etc.
+
 I prefer that you don't quote retweet my post on twitter!
 
 #### Please use these tags in your post:
