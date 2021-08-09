@@ -15,7 +15,7 @@
 ## Extras
   - Extra character: 70% of chosen type
   - Transperancy with optional white stroke (For stickers): €0.50
-  - Paper Look: €0.50
+  - Paper Look: Free!
   - ...
 
 
@@ -32,7 +32,7 @@ My prefered methods of communication, in descending order of preferance and spee
 If you decide to commission me, I kindly ask you to keep it to the point.
 Please DON'T:
   - Smalltalk
-  - Tell me your life story
+  - Roleplay
   - Ask for personal information
   - Gennerally make things uncomfortable for me
   - Keep messaging me (Multiple times in short timespan) about the status of the commission
