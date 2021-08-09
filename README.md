@@ -137,8 +137,23 @@ Not doing this under ANY circumstances:
 With this option I can decide for myself which pose or expression I will draw. Please know that you might not get a WIP at all if you chose for this.
 
 
-## Usage (of the finished work)
-### Can I reupload it to FA, DA, Twitter, etc.?
+## Usage
+### What do I recieve?
+You get (Depending on the commission type):
+  - Occasional screenshots of any WIPs, if applicable
+  - A Clean, uncompressed, full-resolution .png file
+  - (Maybe) A downscaled, faintly watermarked .png file, meant for sharing
+
+You will (most likely) NOT get:
+  - The source .kra or .psd files
+  - An unwatermarked image file (No credits written on it)
+
+### Can I share any Work In Progress (WIP) pictures?
+You're NOT allowed to share WIPs to group chats.
+
+You ARE allowed to show WIPs to individual friends though!
+
+### Can I (re)upload the finished work to FA, DA, Twitter, etc.?
 As long as you credit me appropriately, YES! You have my permission.
 
 Feel free to use it as an icon, set as your banner, use in your streams, etc.
@@ -148,7 +163,6 @@ I prefer that you don't 'Quote Retweet' my post on Twitter!
 #### Please use these tags in your post:
   - Twitter: @EquinoxTheGryph
   - FurAffinity: @Aphelion1
-  
 
 ### Can I resell and/or commercialize it?
 NO. You do can not resell it. Period. 
