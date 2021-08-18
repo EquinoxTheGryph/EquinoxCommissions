@@ -158,8 +158,6 @@ As long as you credit me appropriately, YES! You have my permission.
 
 Feel free to use it as an icon, set as your banner, use in your streams, etc.
 
-I prefer that you don't 'Quote Retweet' my post on Twitter!
-
 #### Please use these tags in your post:
   - Twitter: @EquinoxTheGryph
   - FurAffinity: @Aphelion1
