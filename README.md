@@ -10,7 +10,6 @@
   - Prices are in € (`EUR`)
   - Prices with a `+` might be higher depending on character complexity! (Up to 1.5 times)
   - Prices marked as `xx` are yet to be decided!
-  - Artistic liberty: xx% off! (Read more about it below)
 
 ## Extras
   - Extra character: 70% of chosen type
@@ -131,10 +130,6 @@ Not doing this under ANY circumstances:
   - Political pieces
   - Drama
   - ...
-
-  
-### Artistic liberty
-With this option I can decide for myself which pose or expression I will draw. Please know that you might not get a WIP at all if you chose for this.
 
 
 ## Usage
