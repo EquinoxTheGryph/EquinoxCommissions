@@ -58,6 +58,9 @@ You get 5 changes* free of charge (Before the commission has been marked as fini
 
 One "Change" means: A request to change parts of the drawing every time I send a WIP
 
+When you are getting a WIP for you to check on, **PLEASE** compile a list of changes, *instead* of one at a time!
+This saves both me and you a lot of time ping-ponging wips and redlines around.
+
 
 ### At which stage do I pay?
 I ask you to pay BEFORE I start sketching.
@@ -158,9 +161,7 @@ Feel free to use it as an icon, set as your banner, use in your streams, etc.
   - FurAffinity: @Aphelion1
 
 ### Can I resell and/or commercialize it?
-NO. You do can not resell it. Period. 
-
-No, not even for NFTs.
+NO. You do can not resell it. Period. (NFTs included)
 
 
 ### Do you support NFTs? Cryptocurrencies?
