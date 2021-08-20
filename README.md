@@ -92,6 +92,16 @@ These percentages will be higher if I can not continue myself, for any reason.
 
 
 ## Commission topics
+### Note on Resolution and Aspect ratio
+By default, I make all my art in 4K Resolution (2160px high)
+
+The aspect ratio depends on the Commission type (1:1 for headshots, 4:3 for fullbody)
+
+If you want a specific aspect ratio (Like 16:9) please tell me before I start sketching.
+
+Let me know if the art is intended to be used as a Telegram Sticker (or Emote), I'll draw it in 1024px (Square) and also provide the 512px version, ready to be imported to the sticker bot.
+
+
 ### Can do
   - Birds and Gryphons
   - Some mawed creatures
