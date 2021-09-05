@@ -126,8 +126,6 @@ Things that I'm not really comfortable doing or just not able to do, so expect m
   - NSFW
   - Gore
   - Vore
-  - Inflation
-  - Balloon/Pooltoy
   - ...
 
   
