@@ -111,6 +111,7 @@ Let me know if the art is intended to be used as a Telegram Sticker (or Emote), 
   - Basic full body poses
   - Wings
   - Anthro and Feral (Sometimes)
+  - NSFW (Might do, Ask first)
   - ...
 
   
@@ -126,7 +127,6 @@ Things I very most likely won't do as it's outside my reach for now:
   
 ### Most likely won't do
 Things that I'm not really comfortable doing or just not able to do, so expect me saying no to these things:
-  - NSFW
   - Gore
   - Vore
   - ...
