@@ -35,7 +35,8 @@ If you decide to commission me, I kindly ask you to keep it to the point.
 Please DON'T:
   - Smalltalk
   - Roleplay
-  - Ask for personal information
+  - Ask for personal information ((Full) name, location, medical info, etc.) that has nothing to do with the commission
+  - Use personal information ((Full) name, location, medical info, etc.) as joking matter
   - Gennerally make things uncomfortable for me
   - Keep messaging me (Multiple times in short timespan) about the status of the commission
   - Insult me
