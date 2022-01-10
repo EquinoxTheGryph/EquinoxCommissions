@@ -12,15 +12,13 @@
   - 'Colored' will include lining
   - 'Shaded' will include lining and shading
   - Base will always be roughly colored in
-  - Lined means that the pieve will have clean and consistent lines
-  - Colored means that the piece will be cleanly and carefully colored in, instead of quick and dirty. (On the base option)
-  - Shaded means that the piece will get shading based on how detailed you want it to be.
+  - Shaded means that the piece will get shading based on how detailed you want it to be. (May charge more depending on quality)
 
 ## Extras
-  - Extra character: 70% of chosen type
+  - Extra character: 75% of chosen type
   - Transperancy with optional white stroke (For stickers): €0.50
   - Paper Look: Free and on by default!
-  - ...
+  - NSFW: +10% (Ask for more details)
 
 
 # TOS
@@ -57,6 +55,7 @@ If you do this, depending on the severity of the situation, I WILL CANCEL the co
   - Character having many colors and patterns
   - Extra limbs
   - Detailed wings (Namely with individually drawn feathers)
+  - Private commissions
   - ...
 
 ### Note on requesting for changes
@@ -66,6 +65,8 @@ One "Change" means: A request to change parts of the drawing every time I send a
 
 When you are getting a WIP for you to check on, **PLEASE** compile a list of changes, *instead* of one at a time!
 This saves both me and you a lot of time ping-ponging wips and redlines around.
+
+I encourage redlining! This helps me a ton with changes.
 
 
 ### At which stage do I pay?
@@ -160,13 +161,8 @@ You will (most likely) NOT get:
   - The source .kra or .psd files
   - An unwatermarked image file (No credits written on it)
 
-### Can I share any Work In Progress (WIP) pictures?
-You're NOT allowed to share WIPs to group chats.
-
-You ARE allowed to show WIPs to individual friends though!
-
 ### Can I (re)upload the finished work to FA, DA, Twitter, etc.?
-As long as you credit me appropriately, YES! You have my permission.
+As long as you credit me appropriately, YES! You have my permission. (With exception of commercial usage, described below)
 
 Feel free to use it as an icon, set as your banner, use in your streams, etc.
 
