@@ -2,13 +2,15 @@
 ## Price Sheet
 | Type      | Base     | + Lined  | + Colored  | + Shaded
 | ---       | ---      | ---      | ---        | ---
-| Head      | € 10     | € 3+     | € 3+       | € 5+
-| Bust      | € 15     | € 5+     | € 5+       | € 8+
-| Fullbody  | € 20     | € 8+     | € 8+       | € 12+
+| Head      | € 10     | € 13     | € 16       | € 21
+| Bust      | € 15     | € 20     | € 25       | € 33
+| Fullbody  | € 20     | € 28     | € 36       | € 48
 
 ## Notes
   - Prices are in € (`EUR`)
-  - Prices with a `+` can be higher depending on character complexity!
+  - Prices can be higher depending on character complexity!
+  - 'Colored' will include lining
+  - 'Shaded' will include lining and shading
   - Base will always be roughly colored in
   - Lined means that the pieve will have clean and consistent lines
   - Colored means that the piece will be cleanly and carefully colored in, instead of quick and dirty. (On the base option)
