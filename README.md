@@ -1,16 +1,19 @@
 # Prices
 ## Price Sheet
-| Type      | Base     | + Lined  | + Colored  | + Shaded
-| ---       | ---      | ---      | ---        | ---
-| Head      | € 10     | € 13     | € 16       | € 21
-| Bust      | € 15     | € 20     | € 25       | € 33
-| Fullbody  | € 20     | € 28     | € 36       | € 48
+| Type      | S | S + C | L | L + C | L + C + S
+| ---       | ---   | ---   | ---   | ---   | ---
+| Head      | € 10  | € 13  | € 13  | € 16  | € 21
+| Bust      | € 15  | € 20  | € 20  | € 25  | € 33
+| Fullbody  | € 20  | € 28  | € 28  | € 36  | € 48
+
+  - S = Sketch + Quick Coloring
+  - C = Clean coloring
+  - L = Lining
+  - S = Shading
 
 ## Notes
   - Prices are in € (`EUR`)
   - Prices can be higher depending on character complexity!
-  - 'Colored' will include lining
-  - 'Shaded' will include lining and shading
   - Base will always be roughly colored in
   - Shaded means that the piece will get shading based on how detailed you want it to be. (May charge more depending on quality)
 
