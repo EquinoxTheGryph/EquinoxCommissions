@@ -58,7 +58,7 @@ If you do this, depending on the severity of the situation, I WILL CANCEL the co
 ### Things that might cost extra
   - Character having many colors and patterns
   - Extra limbs
-  - Detailed wings (Namely with individually drawn feathers)
+  - Detailed wings (Namely with individually drawn feathers, simple wings don't cost extra)
   - Private commissions
   - ...
 
