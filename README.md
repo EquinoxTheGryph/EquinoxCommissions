@@ -155,11 +155,10 @@ Not doing this under ANY circumstances:
 
 
 ## Usage
-### What do I recieve?
+### What do you recieve?
 You get (Depending on the commission type):
   - Occasional screenshots of any WIPs, if applicable
   - A Clean, uncompressed, full-resolution .png file
-  - (Maybe) A downscaled, faintly watermarked .png file, meant for sharing
 
 You will (most likely) NOT get:
   - The source .kra or .psd files
