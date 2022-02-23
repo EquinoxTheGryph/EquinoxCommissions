@@ -21,6 +21,7 @@
   - Extra character: 75% of chosen type
   - Transperancy with optional white stroke (For stickers): €0.50
   - Paper Look: Free and on by default!
+  - Background: Will cost extra, amount depends on complexity. (Ask for more details)
   - NSFW: +10% (Ask for more details)
 
 
